@@ -3,7 +3,7 @@
 * I'm currently working in *Machine Learning Engineering* 👨‍💻 at [Covestro](https://www.covestro.com)
 * On the side, I'm also learning some [Go](https://go.dev)
 * I usually write Python 🐍 and work with AWS ☁️
-* If I'm not coding away, I might hit the homegym 🏋️‍♂️ or go for hike 🥾
+* If I'm not coding away, I might hit the homegym 🏋️‍♂️, go for a hike 🥾 or do some cooking 👨‍🍳
 
 <!--
 **slangenbach/slangenbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
