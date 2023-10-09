@@ -1,7 +1,7 @@
 ### Hi I'm Stefan 👋
 
 * I'm currently working in *Machine Learning Engineering* 👨‍💻 at [Covestro](https://www.covestro.com)
-* On the side, I'm also learning some [Go](https://go.dev)
+* On the side, I'm also learning [TypeScript](https://www.typescriptlang.org) and [Go](https://go.dev)
 * I usually write Python 🐍 and work with AWS ☁️
 * If I'm not coding away, I might hit the homegym 🏋️‍♂️, go for a hike 🥾 or do some cooking 👨‍🍳
 
