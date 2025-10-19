@@ -1,8 +1,9 @@
 ### Hi I'm Stefan 👋
 
 * I'm currently working in *Software Engineering* 👨‍💻 for Data, AI and Cloud at [qdive](https://www.qdive.io)
-* On the side, I'm also learning [TypeScript](https://www.typescriptlang.org) and [Go](https://go.dev)
+* I am also the founder & CEO of [byteCare](https://www.bytecare.tech) where we help small businesses to get value from AI
 * I usually write Python 🐍 and work with AWS and Azure ☁️
+* On the side, I'm also learning [TypeScript](https://www.typescriptlang.org) and [Go](https://go.dev)
 * If I'm not coding away, I might hit the homegym 🏋️‍♂️, go for a hike 🥾 or do some cooking 👨‍🍳
 
 <!--
