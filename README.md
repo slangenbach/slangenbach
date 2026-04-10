@@ -1,6 +1,6 @@
 ### Hi I'm Stefan 👋
 
-* I am currently a *Principal Consultant* in Software Engineering 👨‍💻 for Data, AI and Cloud at [Comma Soft][1].
+* I work as a *Principal Consultant* in Software Engineering 👨‍💻 for Data, AI and Cloud at [Comma Soft][1].
 * I am also the founder & CEO of [byteCare][2].
 * I usually write Python 🐍 work with AWS and Azure ☁️ and wrestle with AI models 🤖
 * On the side I usually mix in some TypeScript, Go and Terraform.
