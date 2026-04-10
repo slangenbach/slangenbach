@@ -1,11 +1,14 @@
 ### Hi I'm Stefan 👋
 
-* I'm currently working in *Software Engineering* 👨‍💻 for Data, AI and Cloud at [qdive](https://www.qdive.io)
-* I am also the founder & CEO of [byteCare](https://www.bytecare.tech) where we help small businesses to get value from AI
-* I usually write Python 🐍 and work with AWS and Azure ☁️
-* On the side, I'm also learning [TypeScript](https://www.typescriptlang.org) and [Go](https://go.dev)
-* If I'm not coding away, I might hit the homegym 🏋️‍♂️, go for a hike 🥾 or do some cooking 👨‍🍳
+* I am currently a Principal Consultant in *Software Engineering* 👨‍💻 for Data, AI and Cloud at [Comma Soft][1].
+* I am also the founder & CEO of [byteCare][2].
+* I usually write Python 🐍 work with AWS and Azure ☁️ and wrestle with AI models 🤖
+* On the side I usually mix in some TypeScript, Go and Terraform.
+* If not coding, I might hit the homegym 🏋️‍♂️, go for a hike 🥾 or do some cooking 👨‍🍳
 
+
+[1]: hhttps://comma-soft.com
+[2]: https://www.bytecare.tech
 <!--
 **slangenbach/slangenbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
